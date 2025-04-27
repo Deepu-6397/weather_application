@@ -21,3 +21,7 @@ Frontend: HTML, CSS, JavaScript
 
 API: OpenWeatherMap API 
 Framework/Library (optional): React.js 
+
+📸 Screenshots
+
+![image](https://github.com/user-attachments/assets/4dff9737-78ae-4eb7-94a6-092957c5d86d)
