@@ -47,11 +47,10 @@ const InfoBox = ({info}) => {
                             <p>Humidity ={info.humidity}</p>
                             <p>Min Temp ={info.tempMin}</p>
                             <p>Max Temp ={info.tempMax}</p>
-                            <p>The weathercan be described as <i>{info.weather}</i> and feels like={info.feelsLike}&deg;C</p>
+                            <p>The weather can be described as <i>{info.weather}</i> and feels like={info.feelsLike}&deg;C</p>
 
                         </Typography>
                     </CardContent>
-
                 </Card>
             </div>
         </div>
